@@ -1159,7 +1159,7 @@ a.back_to_top {
 }
 @media (min-width: 1430px) {
   .call-to-action .call-to-action-big-img {
-    top: -10px;
+    top: 24px;
     left: 8px;
   }
 }
