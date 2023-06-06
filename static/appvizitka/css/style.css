@@ -2673,9 +2673,11 @@ a.back_to_top {
   }
 }
 
+
+
 .mycounter{
     align-items: center;
-    font-size: 80px;
+    font-size: calc(50px + 30 * (100vw / 1920));
     text-align: center;
     padding-top: 50px;
     padding-left: 20px;
@@ -2685,7 +2687,7 @@ a.back_to_top {
 
 .mycounter_down{
     align-items: center;
-    font-size: 30px;
+    font-size: calc(11px + 19 * (100vw / 1920));
     text-align: center;
     padding-top: 20px;
     padding-left: 20px;
